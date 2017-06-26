@@ -1,0 +1,4 @@
+.idea
+.sass-cache
+Gemfile.lock
+_site
