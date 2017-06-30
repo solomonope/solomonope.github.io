@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Digital Images"
-date:   2017-06-01 00:00:00
+date:   2017-12-01 00:00:00
 disqus: true
 author: true
 categories: computervision
