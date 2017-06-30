@@ -1,3 +1,15 @@
-title: solomonope.com
-me: http://www.solomonope.com
-theme: jekyll-theme-cayman
+name: S0l0m0NoP3
+description: Mathematics, code & life
+meta_description: "Mathematics, code & life"
+
+markdown: kramdown
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://www.solomonope.com'
+google_analytics: 'UA-XXXXXXXX-X'
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: 'http://www.solomonope.com'
+author: 'Folorunsho Solomon Opeyemi'
